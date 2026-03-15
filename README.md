@@ -68,10 +68,10 @@ python 3D_smoke.py
 
 3. Observe the **Newton-Raphson iteration** progress until convergence:
 
-\`\`\`text
-Iter 1: norm(F) = 3.12e-01
+**Iter 1: norm(F) = 3.12e-01**
 
-Iter 2: norm(F) = 1.04e-02\`\`\`
+**Iter 2: norm(F) = 1.04e-02**
+
 > Converged.
 
 
