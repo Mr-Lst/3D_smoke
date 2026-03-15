@@ -1,8 +1,3 @@
-#!/bin/bash
-
-# Script to create README.md for 3D Smoke Simulation
-
-cat << 'EOF' > README.md
 # 3D Smoke Simulation with Pulsating Heat Source
 
 **Author:** [Your Name]  
