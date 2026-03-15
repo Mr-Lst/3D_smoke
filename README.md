@@ -1,11 +1,5 @@
 # 3D Smoke Simulation with Pulsating Heat Source
 
-**Author:** [Your Name]  
-**Date:** March 2026  
-**Language:** Python 3.x  
-
----
-
 ## Introduction
 
 This project presents a **numerical simulation of three-dimensional smoke flow** within a confined domain, featuring a **pulsating heat source**. The program employs a **Bernstein collocation method** to approximate the solutions of the governing partial differential equations for fluid flow and thermal dynamics, taking into account **viscosity, thermal diffusivity, buoyancy, and gravity**.  
