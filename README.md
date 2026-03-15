@@ -70,6 +70,7 @@ python smoke_simulation.py
 
 \`\`\`text
 Iter 1: norm(F) = 3.12e-01
+
 Iter 2: norm(F) = 1.04e-02
 > Converged.
 \`\`\`
