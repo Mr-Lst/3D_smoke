@@ -55,10 +55,9 @@ The primary goal of this framework is to provide a **flexible and precise comput
 
 1. Run the program:
 
-\`\`\`bash
-python 3D_smoke.py
-\`\`\`
-
+```bash
+python smoke_simulation.py
+```
 2. Enter the prompted input values, such as:
 
 - Polynomial degrees: `Nx`, `Ny`, `Nz`, `Nt`  
