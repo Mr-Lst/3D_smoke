@@ -56,7 +56,7 @@ The primary goal of this framework is to provide a **flexible and precise comput
 1. Run the program:
 
 \`\`\`bash
-python smoke_simulation.py
+python 3D_smoke.py
 \`\`\`
 
 2. Enter the prompted input values, such as:
@@ -71,9 +71,9 @@ python smoke_simulation.py
 \`\`\`text
 Iter 1: norm(F) = 3.12e-01
 
-Iter 2: norm(F) = 1.04e-02
+Iter 2: norm(F) = 1.04e-02\`\`\`
 > Converged.
-\`\`\`
+
 
 4. After convergence, the program generates:
 
